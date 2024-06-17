@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 0;
+    padding-left: 15px;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.carousel-inner img {
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.carousel-caption p {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.navbar-nav li {
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#navbarNav {
+    justify-content: flex-end;
+}
+
+.navbar-toggler {
+    padding-right: 15px;
+}
